@@ -30,3 +30,13 @@
     padding: 10px 35px;
     
 }
+
+
+.input{
+    padding: 10px 35px;
+    margin: 0;
+    background: #fafafa;
+    border-radius: 10px;
+    border: 1px solid black;
+    
+}

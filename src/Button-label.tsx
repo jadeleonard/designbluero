@@ -4,7 +4,7 @@ interface props {
    title:string
    
 }
-const Button : React.FC<props>= ({title}) =>  {
+const Button : React.FC<props> = ({title}) =>{
     return(
         <div>
             <a className='button-green'><span className='span'></span>{title}</a>
