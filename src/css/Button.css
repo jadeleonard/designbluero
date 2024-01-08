@@ -1,0 +1,23 @@
+
+
+.button{
+    
+        background:#92cf63;
+        box-shadow: 0 0 10px #6ae30b;
+        padding: 10px 35px;
+        margin: 0;
+        transition: 0.5s;
+        font-weight: 400;
+        border-radius: 10px;
+        font-size: 24px;
+
+    
+}
+
+.button:hover{
+    letter-spacing: 0.5em;
+    background: #a2eb6a;
+    box-shadow: 0 0 10px #c7f0a8;
+    color: #61a6d4;
+    text-shadow: 0 0 10px #61a6d4;
+}
