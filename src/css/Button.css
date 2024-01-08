@@ -1,6 +1,6 @@
 
 
-.button{
+.button-green{
     
         background:#92cf63;
         box-shadow: 0 0 10px #6ae30b;
@@ -14,10 +14,19 @@
     
 }
 
-.button:hover{
+.button-green:hover{
     letter-spacing: 0.5em;
     background: #a2eb6a;
     box-shadow: 0 0 10px #c7f0a8;
     color: #61a6d4;
     text-shadow: 0 0 10px #61a6d4;
+}
+
+
+.button-red{
+    background: red;
+    box-shadow: 0 0 10px red;
+    color:black;
+    padding: 10px 35px;
+    
 }
